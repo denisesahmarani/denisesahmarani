@@ -1,4 +1,4 @@
-<h1 style="align="center">Hi, ich bin Denise ✨</h1><br><br><p style="align="center" 🚀 Fokus: Fullstack Development <br>📚 Aktuell: HTML & CSS<br>🧠 Als Nächstes: JavaScript und vieles mehr!</p>
+<p align="center">Hi, ich bin Denise ✨<br><br>🚀 Fokus: Fullstack Development <br>📚 Aktuell: HTML & CSS<br>🧠 Als Nächstes: JavaScript und vieles mehr!</p>
 
 ###
 
