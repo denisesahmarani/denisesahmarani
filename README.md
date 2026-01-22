@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, ich bin Denise ✨</h1> <br>
   
-  <p align="center">🚀 Fokus: Fullstack Development <br>📚 Aktuell: HTML & CSS<br>🧠 Als Nächstes: JavaScript und vieles mehr!</p>
+  <p align="center">🚀 Fokus: Fullstack Development <br>📚 Aktuell: HTML | CSS | JS</p>
 
 ###
 
