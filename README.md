@@ -31,11 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript logo" />
 </p>
 
-## Projects
-
-- **NXTask**
-- **Fotogram**
-
 <details>
   <summary>GitHub Activity</summary>
 
@@ -45,14 +40,4 @@
     src="https://raw.githubusercontent.com/denisesahmarani/denisesahmarani/output/snake.svg" 
     alt="Snake animation" 
   />
-
-  <br>
-
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=denisesahmarani&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_border=false&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E&border_color=30363D&locale=en" 
-      height="150" 
-      alt="GitHub stats graph" 
-    />
-  </p>
 </details>
