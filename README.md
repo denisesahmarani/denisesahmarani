@@ -7,15 +7,15 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Focus-Fullstack%20Development-071A3A?style=for-the-badge&labelColor=071A3A&color=D8B66C" 
+    src="https://img.shields.io/badge/Focus-Fullstack%20Development-1F2937?style=for-the-badge&labelColor=111827&color=374151" 
     alt="Focus: Fullstack Development" 
   />
   <img 
-    src="https://img.shields.io/badge/Interest-UI%2FUX%20Design-071A3A?style=for-the-badge&labelColor=071A3A&color=D8B66C" 
+    src="https://img.shields.io/badge/Interest-UI%2FUX%20Design-1F2937?style=for-the-badge&labelColor=111827&color=374151" 
     alt="Interest: UI/UX Design" 
   />
   <img 
-    src="https://img.shields.io/badge/Style-Clean%20%26%20Accessible-071A3A?style=for-the-badge&labelColor=071A3A&color=D8B66C" 
+    src="https://img.shields.io/badge/Style-Clean%20%26%20Accessible-1F2937?style=for-the-badge&labelColor=111827&color=374151" 
     alt="Style: Clean and Accessible" 
   />
 </p>
@@ -91,7 +91,7 @@ A responsive gallery project focused on semantic HTML, accessibility and clean v
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=denisesahmarani&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=en&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=denisesahmarani&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_border=false&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E&border_color=30363D&locale=en" 
     height="160" 
     alt="GitHub stats graph" 
   />
